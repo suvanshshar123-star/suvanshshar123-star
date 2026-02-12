@@ -83,6 +83,19 @@
   <img src="https://raw.githubusercontent.com/suvanshshar123/suvanshshar123/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+<!-- GRADIENT DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- RECENT ACTIVITY -->
+<h2 align="center">⚡ Recent GitHub Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: {{ date }}
+<!--RECENT_ACTIVITY:last_update-->
+
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
